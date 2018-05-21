@@ -9,3 +9,7 @@ game/simulation (Runnable Assignment 9.jar).
 Concepts used:
 - OOP
 - MVC
+
+NOTE:
+
+Both .jar files are runnable, one shows the inital task, the other my final submission.
